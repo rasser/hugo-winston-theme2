@@ -7,12 +7,7 @@ menu:
 ---
 
 ## Contra vagos
-
-Lorem _markdownum notam si_ lintea meque certa [en meumque
-illis](#cohibentem-iuvenaliter), diu fatigant, nec praedae concustodita arcet.
-[Paviunt castris](#nemorisque-urimur-violentus) cur errat ventis causa! Silvas
-sine satis vocat praedam moverat, precor, non sola bovis neque mihi. Primum
-utilis nympham, et certus amplexas Deiphobum palmis credas ambo, nec.
+Hello i'm me.. 
 
 > Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit
 > adfusique imis amplexus. Agmina per fabricator
