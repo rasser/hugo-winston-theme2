@@ -1,7 +1,7 @@
 ---
-title: Test Blog
+title: Utilizing the Accuranker API with Excel
 date: 2022-06-29
-description: 'Something something'
+description: 'How to get automated Accuranker data into Excel'
 image: images/cctv.jpeg
 ---
 
